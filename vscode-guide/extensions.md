@@ -41,6 +41,7 @@ description: vscode extensions
 | 1.1M     | Cobalt2 Theme Official                                    | Official theme by Wes Bos.                                                                                                                                                                                                                                          |
 | 1.0M     | shell-format                                              | A formatter for shell scripts, Dockerfile, gitignore, dotenv, /etc/hosts, jvmoptions, and other file types                                                                                                                                                          |
 | 920k     | CodeSnap                                                  | Take beautiful screenshots of your code                                                                                                                                                                                                                             |
+| 796k     | Blackbox                                                  | Code as fast as you think                                                                                                                                                                                                                                           |
 | 780k     | Python Test Explorer for Visual Studio Code               | Run your Python tests in the Sidebar of Visual Studio Code                                                                                                                                                                                                          |
 | 680k     | Partial Diff                                              | Compare (diff) text selections within a file, across files, or to the clipboard                                                                                                                                                                                     |
 | 515k     | python snippets                                           | Code snippets for python                                                                                                                                                                                                                                            |
@@ -54,7 +55,27 @@ description: vscode extensions
 | 50k      | Dictionary Completion                                     | Word Completion                                                                                                                                                                                                                                                     |
 | 48k      | Codeium                                                   | The modern coding superpower: free AI code completion plugin for your favorite languages.                                                                                                                                                                           |
 | 45k      | Better Align                                              | Better vertical alignment with/without selection in any language for any characters or words.                                                                                                                                                                       |
+| 44k      | CodeGeeX                                                  | CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.                                                                                                                                                                 |
 | 42k      | Docs View                                                 | displays hover documentation in the sidebar or panel.                                                                                                                                                                                                               |
 | 40k      | A-super-translate                                         | translate                                                                                                                                                                                                                                                           |
 | 37k      | aiXcoder Code Completer                                   | A free code completion tool powered by deep learning.                                                                                                                                                                                                               |
 | 34k      | Wolf                                                      | enables visual inspection of live Python code from the editor.                                                                                                                                                                                                      |
+| 1306     | Ask Codi                                                  | An AI assistant for coders                                                                                                                                                                                                                                          |
+
+Code as fast as you think
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* [正在安装]()
+* 
+* 
+* 
+* []()
