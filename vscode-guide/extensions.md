@@ -61,21 +61,3 @@ description: vscode extensions
 | 37k      | aiXcoder Code Completer                                   | A free code completion tool powered by deep learning.                                                                                                                                                                                                               |
 | 34k      | Wolf                                                      | enables visual inspection of live Python code from the editor.                                                                                                                                                                                                      |
 | 1306     | Ask Codi                                                  | An AI assistant for coders                                                                                                                                                                                                                                          |
-
-Code as fast as you think
-
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* [正在安装]()
-* 
-* 
-* 
-* []()
