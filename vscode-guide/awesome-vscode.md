@@ -10,14 +10,42 @@
 
 ## Plugins
 
-### Markdown
+### Common
+
+* [Chinese (Simplified) Language Pack for Visual Studio Code] - Language pack extension for Chinese (Simplified).
+* [Remote - SSH] - Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+* [EditorConfig for VS Code] - EditorConfig Support for Visual Studio Code.
+* [Code Spell Checker] - Spelling checker for source code.
+* [indent-rainbow] - Makes indentation easier to read.
+* [vim] - Vim emulation for Visual Studio Code.
+* [gitignore] - Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files.
+* [SonarLint] - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.
+* [Codelf] - Best GitHub stars, repositories tagger and organizer. Search Github, GitLab to find real-world usage variable names.
+* [Codeium] - The modern coding superpower: free AI code completion plugin for your favorite languages.
+
+### Document
 
 * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* [vscode-mindmap] - mindmap for vscode.
+
+### Note
+
+* [Notes] - Notes is a Markdown focused notes extension for Visual Studio Code that takes inspiration from Notational.
 
 ### Python
 
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
+* [Pylance] - A performant, feature-rich language server for Python in VS Code.
+* [isort] - Import Organization support for Python files using isort.
+* [Python Test Explorer for Visual Studio Code] - Run your Python tests in the Sidebar of Visual Studio Code.
+* [Ruff] - linter.
+* [sourcery] - Refactor Python instantly with Sourcery.
+* [sonarlint] - Detects.
+
+### Go
+
+* [Go] - Rich Go language support for Visual Studio Code.
 
 ### Productivity
 
@@ -27,6 +55,7 @@
 * [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager) - Automatically indexes your git projects and lets you easily toggle between them.
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 * [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy) -- Provides fast cursor movement, inspired by Atom's package of the same name.
+* [MetaJump] - vscode cursor move/select/delete; jump, navigation, goto, acejump.
 * [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across different files, or to the clipboard
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Infer the structure of JSON and paste is as types in many programming languages.
 * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects.
@@ -35,6 +64,8 @@
 * [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) - All-in-one solution with 190+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.
 * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
 * [Time Converter](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing) - Time converter extension to convert timestamps from/to various formats and insert them on demand or just display them. It further provides a neat hover provider to beautify epoch timestamps instantly. All features are highly customizable.
+* [Thunder Client] - Lightweight Rest API Client for VS Code.
+* [CodeSnap] - Take beautiful screenshots of your code.
 
 ### Formatting & Beautification
 
@@ -42,5 +73,7 @@
 * [shell-format](https://github.com/foxundermoon/vs-shell-format) - shell script & Dockerfile & dotenv format.
 * [Vscode Google Translate](https://github.com/viatsko/awesome-vscode#jumpy) - Quickly translate selected text right in your code.
 * [Password Generator](https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
+* [Trailing Spaces] - Highlight trailing spaces and delete them in a flash!
+* [Draw.io Integration] - This unofficial extension integrates Draw.io into VS Code.
 
 ## Themes
