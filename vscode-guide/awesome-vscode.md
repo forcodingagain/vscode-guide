@@ -32,17 +32,15 @@
 * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects.
 * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Highlight columns in comma, tab, semicolon and pipe separated files, consistency check and linting with CSVLint, multi-cursor column editing, column trimming and realignment, and SQL-style querying with RBQL.
 * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in Visual Studio Code directly.
+* [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools) - All-in-one solution with 190+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - Custom keywords, highlighting, and colors for TODO comments. As well as a sidebar to view all your current tags.
+* [Time Converter](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing) - Time converter extension to convert timestamps from/to various formats and insert them on demand or just display them. It further provides a neat hover provider to beautify epoch timestamps instantly. All features are highly customizable.
 
+### Formatting & Beautification
 
+* [Better Align](https://github.com/viatsko/awesome-vscode#jumpy) - Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+* [shell-format](https://github.com/foxundermoon/vs-shell-format) - shell script & Dockerfile & dotenv format.
+* [Vscode Google Translate](https://github.com/viatsko/awesome-vscode#jumpy) - Quickly translate selected text right in your code.
+* [Password Generator](https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator) - Create a secure password using our generator tool. Help prevent a security threat by getting a strong password today.
 
-
-
-
-
-
-
-
-
-
-
-
+## Themes
